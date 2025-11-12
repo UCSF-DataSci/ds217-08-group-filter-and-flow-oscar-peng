@@ -1,0 +1,13 @@
+Assignment 8 — Question 1: Aggregation report
+
+              facility_name  total_providers  avg_years_experience  total_service_charge  total_insurance_paid  mean_years_experience  std_years_experience  normalized_years_experience  facility_total_encounter_charges
+Cardiology Specialty Center              297             19.319728             276658.83             222139.04              20.137014             10.581439                    -0.863495                         297283.06
+      City General Hospital              312             19.563008             295508.13             236798.50              19.563008             10.702137                    -0.052607                         295508.13
+    Community Health Clinic              328             20.160784             334992.21             269207.92              19.563008             10.702137                    -1.547636                         295508.13
+   Emergency Medical Center              299             19.668687             310735.25             248439.20              20.137014             10.581439                    -1.336020                         297283.06
+      Northside Urgent Care              305             20.137014             297283.06             236839.71              20.209205             11.575935                     1.364105                         316284.98
+  Oncology Treatment Center              324             19.381139             334927.30             267183.95              20.137014             10.581439                    -0.579979                         297283.06
+      Pediatric Care Center              326             19.811676             361811.04             291790.95              20.137014             10.581439                    -0.863495                         297283.06
+        Primary Care Clinic              316             20.102970             323315.71             260297.44              19.563008             10.702137                     0.321150                         295508.13
+    Regional Medical Center              309             20.209205             316284.98             251750.43              20.137014             10.581439                    -1.336020                         297283.06
+  Surgical Specialty Center              340             20.778182             349909.18             278503.38              20.778182             11.358132                    -1.653281                         349909.18

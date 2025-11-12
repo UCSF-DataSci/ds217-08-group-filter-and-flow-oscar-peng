@@ -1,0 +1,5 @@
+facility_type,North,South,West,Total
+Hospital,0,509,0,509
+Specialty Center,0,1026,946,1972
+Urgent Care,510,970,1039,2519
+Total,510,2505,1985,5000
